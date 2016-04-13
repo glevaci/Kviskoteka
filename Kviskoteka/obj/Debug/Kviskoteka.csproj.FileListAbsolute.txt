@@ -1,0 +1,48 @@
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\kviskotekaDb.mdf
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\kviskotekaDb_log.ldf
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.cs
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.Designer.cs
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.xsc
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.xsd
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.xss
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\quit\Desktop\New folder\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.AddQuestionMainForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.AddQuestionSubForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.AdminForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.FirstGameForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.FinalGameForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.InitialForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.ResultsForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.RulesForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.UsernameForm.resources
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.Cache
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\quit\Desktop\New folder\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\Kviskoteka.exe.config
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.exe
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.pdb
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.cs
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.Designer.cs
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.xsc
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.xsd
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\kviskotekaDbDataSet.xss
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\kviskotekaDb.mdf
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\kviskotekaDb_log.ldf
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\Kviskoteka.exe
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\bin\Debug\Kviskoteka.pdb
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.csprojResolveAssemblyReference.cache
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.AddQuestionMainForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.AddQuestionSubForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.AdminForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.FirstGameForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.FinalGameForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.InitialForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.Properties.Resources.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.ResultsForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.RulesForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.UsernameForm.resources
+C:\Users\Gorana\Desktop\New-folder\Kviskoteka\obj\Debug\Kviskoteka.csproj.GenerateResource.Cache
